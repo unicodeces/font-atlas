@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Font Atlas</title>
+<style>
+:root{--bg:#fff;--fg:#1a1a1a;--card:#f4f4f5;--bd:#e4e4e7}
+@media(prefers-color-scheme:dark){:root{--bg:#111;--fg:#eee;--card:#1c1c1f;--bd:#2e2e33}}
+body{margin:0;font-family:system-ui,sans-serif;background:var(--bg);color:var(--fg)}
+header{padding:24px;max-width:1100px;margin:auto}
+.bar{display:flex;gap:8px;flex-wrap:wrap}
+input,select{padding:8px 10px;border:1px solid var(--bd);border-radius:8px;background:var(--card);color:var(--fg);font-size:15px}
+input{flex:1;min-width:200px}
+main{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;max-width:1100px;margin:auto;padding:0 24px 40px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:16px}
+.sample{font-size:26px;margin:8px 0;word-break:break-word}
+small{opacity:.65}a{color:inherit}
+</style></head><body>
+<header><h1>Font Atlas</h1><p id="count"></p>
+<div class="bar"><input id="q" placeholder="Buscar fonte..."><select id="cat"></select>
+<input id="txt" value="The quick brown fox" style="flex:2"></div></header>
+<main id="grid"></main>
+<script>
+let data=[];const $=id=>document.getElementById(id);
+fetch("catalog.json").then(r=>r.json()).then(d=>{data=d;
+ const cats=[...new Set(d.map(x=>x.category))];
+ $("cat").innerHTML='<option value="">Todas as categorias</option>'+cats.map(c=>`<option>${c}</option>`).join("");
+ render();});
+["q","cat","txt"].forEach(i=>$(i).addEventListener("input",render));
+const loaded=new Set();
+function load(f){if(loaded.has(f.slug))return;loaded.add(f.slug);
+ const l=document.createElement("link");l.rel="stylesheet";l.href=f.css;document.head.appendChild(l);}
+function render(){
+ const q=$("q").value.toLowerCase(),c=$("cat").value,t=$("txt").value||"Aa";
+ const list=data.filter(f=>(!c||f.category===c)&&f.family.toLowerCase().includes(q));
+ $("count").textContent=list.length+" fontes";
+ $("grid").innerHTML=list.map(f=>{load(f);return `<div class="card"><b>${f.family}</b><br><small>${f.category}</small>
+ <div class="sample" style="font-family:${f.css_stack}">${t.replace(/</g,"&lt;")}</div>
+ <a href="${f.page}" target="_blank" rel="noopener">Google Fonts</a></div>`}).join("");}
+</script></body></html>
