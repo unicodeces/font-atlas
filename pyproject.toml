@@ -1,0 +1,32 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fontcase"
+version = "0.1.0"
+description = "Catálogo offline de 150 fontes do Google Fonts organizadas por categoria, com API e CLI."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "SEU NOME", email = "seu@email.com" }]
+keywords = ["fonts", "typography", "google-fonts", "catalog", "css"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Topic :: Text Processing :: Fonts",
+]
+
+[project.urls]
+Homepage = "https://github.com/SEU-USUARIO/font-atlas"
+Issues = "https://github.com/SEU-USUARIO/font-atlas/issues"
+
+[project.scripts]
+fontcase = "fontcase.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/fontcase"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/fontcase", "README.md", "LICENSE", "pyproject.toml"]
