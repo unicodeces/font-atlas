@@ -1,0 +1,10 @@
+{
+  "family": "Silkscreen",
+  "slug": "silkscreen",
+  "category": "display-pixel",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Silkscreen",
+  "css": "https://fonts.googleapis.com/css2?family=Silkscreen&display=swap",
+  "css_stack": "'Silkscreen', sans-serif"
+}

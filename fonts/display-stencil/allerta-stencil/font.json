@@ -1,0 +1,10 @@
+{
+  "family": "Allerta Stencil",
+  "slug": "allerta-stencil",
+  "category": "display-stencil",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Allerta+Stencil",
+  "css": "https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap",
+  "css_stack": "'Allerta Stencil', sans-serif"
+}

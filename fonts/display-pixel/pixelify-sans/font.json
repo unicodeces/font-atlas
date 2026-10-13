@@ -1,0 +1,10 @@
+{
+  "family": "Pixelify Sans",
+  "slug": "pixelify-sans",
+  "category": "display-pixel",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Pixelify+Sans",
+  "css": "https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap",
+  "css_stack": "'Pixelify Sans', sans-serif"
+}

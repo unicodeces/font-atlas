@@ -1,0 +1,10 @@
+{
+  "family": "VT323",
+  "slug": "vt323",
+  "category": "display-pixel",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/VT323",
+  "css": "https://fonts.googleapis.com/css2?family=VT323&display=swap",
+  "css_stack": "'VT323', sans-serif"
+}
