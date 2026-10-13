@@ -1,0 +1,1502 @@
+[
+ {
+  "family": "Grenze Gotisch",
+  "slug": "grenze-gotisch",
+  "category": "display-blackletter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Grenze+Gotisch",
+  "css": "https://fonts.googleapis.com/css2?family=Grenze+Gotisch&display=swap",
+  "css_stack": "'Grenze Gotisch', sans-serif"
+ },
+ {
+  "family": "Jacquard 12",
+  "slug": "jacquard-12",
+  "category": "display-blackletter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Jacquard+12",
+  "css": "https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap",
+  "css_stack": "'Jacquard 12', sans-serif"
+ },
+ {
+  "family": "New Rocker",
+  "slug": "new-rocker",
+  "category": "display-blackletter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/New+Rocker",
+  "css": "https://fonts.googleapis.com/css2?family=New+Rocker&display=swap",
+  "css_stack": "'New Rocker', sans-serif"
+ },
+ {
+  "family": "Pirata One",
+  "slug": "pirata-one",
+  "category": "display-blackletter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Pirata+One",
+  "css": "https://fonts.googleapis.com/css2?family=Pirata+One&display=swap",
+  "css_stack": "'Pirata One', sans-serif"
+ },
+ {
+  "family": "UnifrakturCook",
+  "slug": "unifrakturcook",
+  "category": "display-blackletter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/UnifrakturCook",
+  "css": "https://fonts.googleapis.com/css2?family=UnifrakturCook&display=swap",
+  "css_stack": "'UnifrakturCook', sans-serif"
+ },
+ {
+  "family": "UnifrakturMaguntia",
+  "slug": "unifrakturmaguntia",
+  "category": "display-blackletter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/UnifrakturMaguntia",
+  "css": "https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap",
+  "css_stack": "'UnifrakturMaguntia', sans-serif"
+ },
+ {
+  "family": "Cinzel Decorative",
+  "slug": "cinzel-decorative",
+  "category": "display-decorative",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Cinzel+Decorative",
+  "css": "https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap",
+  "css_stack": "'Cinzel Decorative', sans-serif"
+ },
+ {
+  "family": "Cormorant Unicase",
+  "slug": "cormorant-unicase",
+  "category": "display-decorative",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Cormorant+Unicase",
+  "css": "https://fonts.googleapis.com/css2?family=Cormorant+Unicase&display=swap",
+  "css_stack": "'Cormorant Unicase', sans-serif"
+ },
+ {
+  "family": "Eater",
+  "slug": "eater",
+  "category": "display-decorative",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Eater",
+  "css": "https://fonts.googleapis.com/css2?family=Eater&display=swap",
+  "css_stack": "'Eater', sans-serif"
+ },
+ {
+  "family": "Emilys Candy",
+  "slug": "emilys-candy",
+  "category": "display-decorative",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Emilys+Candy",
+  "css": "https://fonts.googleapis.com/css2?family=Emilys+Candy&display=swap",
+  "css_stack": "'Emilys Candy', sans-serif"
+ },
+ {
+  "family": "Fascinate",
+  "slug": "fascinate",
+  "category": "display-decorative",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Fascinate",
+  "css": "https://fonts.googleapis.com/css2?family=Fascinate&display=swap",
+  "css_stack": "'Fascinate', sans-serif"
+ },
+ {
+  "family": "Henny Penny",
+  "slug": "henny-penny",
+  "category": "display-decorative",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Henny+Penny",
+  "css": "https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap",
+  "css_stack": "'Henny Penny', sans-serif"
+ },
+ {
+  "family": "Audiowide",
+  "slug": "audiowide",
+  "category": "display-futuristic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Audiowide",
+  "css": "https://fonts.googleapis.com/css2?family=Audiowide&display=swap",
+  "css_stack": "'Audiowide', sans-serif"
+ },
+ {
+  "family": "Exo 2",
+  "slug": "exo-2",
+  "category": "display-futuristic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Exo+2",
+  "css": "https://fonts.googleapis.com/css2?family=Exo+2&display=swap",
+  "css_stack": "'Exo 2', sans-serif"
+ },
+ {
+  "family": "Michroma",
+  "slug": "michroma",
+  "category": "display-futuristic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Michroma",
+  "css": "https://fonts.googleapis.com/css2?family=Michroma&display=swap",
+  "css_stack": "'Michroma', sans-serif"
+ },
+ {
+  "family": "Orbitron",
+  "slug": "orbitron",
+  "category": "display-futuristic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Orbitron",
+  "css": "https://fonts.googleapis.com/css2?family=Orbitron&display=swap",
+  "css_stack": "'Orbitron', sans-serif"
+ },
+ {
+  "family": "Rajdhani",
+  "slug": "rajdhani",
+  "category": "display-futuristic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Rajdhani",
+  "css": "https://fonts.googleapis.com/css2?family=Rajdhani&display=swap",
+  "css_stack": "'Rajdhani', sans-serif"
+ },
+ {
+  "family": "Saira",
+  "slug": "saira",
+  "category": "display-futuristic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Saira",
+  "css": "https://fonts.googleapis.com/css2?family=Saira&display=swap",
+  "css_stack": "'Saira', sans-serif"
+ },
+ {
+  "family": "Alfa Slab One",
+  "slug": "alfa-slab-one",
+  "category": "display-heavy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Alfa+Slab+One",
+  "css": "https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap",
+  "css_stack": "'Alfa Slab One', sans-serif"
+ },
+ {
+  "family": "Anton",
+  "slug": "anton",
+  "category": "display-heavy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Anton",
+  "css": "https://fonts.googleapis.com/css2?family=Anton&display=swap",
+  "css_stack": "'Anton', sans-serif"
+ },
+ {
+  "family": "Archivo Black",
+  "slug": "archivo-black",
+  "category": "display-heavy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Archivo+Black",
+  "css": "https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap",
+  "css_stack": "'Archivo Black', sans-serif"
+ },
+ {
+  "family": "Bebas Neue",
+  "slug": "bebas-neue",
+  "category": "display-heavy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Bebas+Neue",
+  "css": "https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap",
+  "css_stack": "'Bebas Neue', sans-serif"
+ },
+ {
+  "family": "Passion One",
+  "slug": "passion-one",
+  "category": "display-heavy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Passion+One",
+  "css": "https://fonts.googleapis.com/css2?family=Passion+One&display=swap",
+  "css_stack": "'Passion One', sans-serif"
+ },
+ {
+  "family": "Titan One",
+  "slug": "titan-one",
+  "category": "display-heavy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Titan+One",
+  "css": "https://fonts.googleapis.com/css2?family=Titan+One&display=swap",
+  "css_stack": "'Titan One', sans-serif"
+ },
+ {
+  "family": "DotGothic16",
+  "slug": "dotgothic16",
+  "category": "display-pixel",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/DotGothic16",
+  "css": "https://fonts.googleapis.com/css2?family=DotGothic16&display=swap",
+  "css_stack": "'DotGothic16', sans-serif"
+ },
+ {
+  "family": "Jersey 10",
+  "slug": "jersey-10",
+  "category": "display-pixel",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Jersey+10",
+  "css": "https://fonts.googleapis.com/css2?family=Jersey+10&display=swap",
+  "css_stack": "'Jersey 10', sans-serif"
+ },
+ {
+  "family": "Pixelify Sans",
+  "slug": "pixelify-sans",
+  "category": "display-pixel",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Pixelify+Sans",
+  "css": "https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap",
+  "css_stack": "'Pixelify Sans', sans-serif"
+ },
+ {
+  "family": "Press Start 2P",
+  "slug": "press-start-2p",
+  "category": "display-pixel",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Press+Start+2P",
+  "css": "https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap",
+  "css_stack": "'Press Start 2P', sans-serif"
+ },
+ {
+  "family": "Silkscreen",
+  "slug": "silkscreen",
+  "category": "display-pixel",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Silkscreen",
+  "css": "https://fonts.googleapis.com/css2?family=Silkscreen&display=swap",
+  "css_stack": "'Silkscreen', sans-serif"
+ },
+ {
+  "family": "VT323",
+  "slug": "vt323",
+  "category": "display-pixel",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/VT323",
+  "css": "https://fonts.googleapis.com/css2?family=VT323&display=swap",
+  "css_stack": "'VT323', sans-serif"
+ },
+ {
+  "family": "Bungee",
+  "slug": "bungee",
+  "category": "display-retro",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Bungee",
+  "css": "https://fonts.googleapis.com/css2?family=Bungee&display=swap",
+  "css_stack": "'Bungee', sans-serif"
+ },
+ {
+  "family": "Chango",
+  "slug": "chango",
+  "category": "display-retro",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Chango",
+  "css": "https://fonts.googleapis.com/css2?family=Chango&display=swap",
+  "css_stack": "'Chango', sans-serif"
+ },
+ {
+  "family": "Fredericka the Great",
+  "slug": "fredericka-the-great",
+  "category": "display-retro",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Fredericka+the+Great",
+  "css": "https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap",
+  "css_stack": "'Fredericka the Great', sans-serif"
+ },
+ {
+  "family": "Lobster",
+  "slug": "lobster",
+  "category": "display-retro",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Lobster",
+  "css": "https://fonts.googleapis.com/css2?family=Lobster&display=swap",
+  "css_stack": "'Lobster', sans-serif"
+ },
+ {
+  "family": "Monoton",
+  "slug": "monoton",
+  "category": "display-retro",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Monoton",
+  "css": "https://fonts.googleapis.com/css2?family=Monoton&display=swap",
+  "css_stack": "'Monoton', sans-serif"
+ },
+ {
+  "family": "Righteous",
+  "slug": "righteous",
+  "category": "display-retro",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Righteous",
+  "css": "https://fonts.googleapis.com/css2?family=Righteous&display=swap",
+  "css_stack": "'Righteous', sans-serif"
+ },
+ {
+  "family": "Allerta Stencil",
+  "slug": "allerta-stencil",
+  "category": "display-stencil",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Allerta+Stencil",
+  "css": "https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap",
+  "css_stack": "'Allerta Stencil', sans-serif"
+ },
+ {
+  "family": "Big Shoulders Stencil Display",
+  "slug": "big-shoulders-stencil-display",
+  "category": "display-stencil",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Big+Shoulders+Stencil+Display",
+  "css": "https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display&display=swap",
+  "css_stack": "'Big Shoulders Stencil Display', sans-serif"
+ },
+ {
+  "family": "Black Ops One",
+  "slug": "black-ops-one",
+  "category": "display-stencil",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Black+Ops+One",
+  "css": "https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap",
+  "css_stack": "'Black Ops One', sans-serif"
+ },
+ {
+  "family": "Bungee Shade",
+  "slug": "bungee-shade",
+  "category": "display-stencil",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Bungee+Shade",
+  "css": "https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap",
+  "css_stack": "'Bungee Shade', sans-serif"
+ },
+ {
+  "family": "Saira Stencil One",
+  "slug": "saira-stencil-one",
+  "category": "display-stencil",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Saira+Stencil+One",
+  "css": "https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap",
+  "css_stack": "'Saira Stencil One', sans-serif"
+ },
+ {
+  "family": "Stardos Stencil",
+  "slug": "stardos-stencil",
+  "category": "display-stencil",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Stardos+Stencil",
+  "css": "https://fonts.googleapis.com/css2?family=Stardos+Stencil&display=swap",
+  "css_stack": "'Stardos Stencil', sans-serif"
+ },
+ {
+  "family": "Kosugi",
+  "slug": "kosugi",
+  "category": "international-cjk",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Kosugi",
+  "css": "https://fonts.googleapis.com/css2?family=Kosugi&display=swap",
+  "css_stack": "'Kosugi', sans-serif"
+ },
+ {
+  "family": "Noto Sans JP",
+  "slug": "noto-sans-jp",
+  "category": "international-cjk",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Sans+JP",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap",
+  "css_stack": "'Noto Sans JP', sans-serif"
+ },
+ {
+  "family": "Noto Sans KR",
+  "slug": "noto-sans-kr",
+  "category": "international-cjk",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Sans+KR",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap",
+  "css_stack": "'Noto Sans KR', sans-serif"
+ },
+ {
+  "family": "Noto Sans SC",
+  "slug": "noto-sans-sc",
+  "category": "international-cjk",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Sans+SC",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap",
+  "css_stack": "'Noto Sans SC', sans-serif"
+ },
+ {
+  "family": "Noto Serif JP",
+  "slug": "noto-serif-jp",
+  "category": "international-cjk",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Serif+JP",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap",
+  "css_stack": "'Noto Serif JP', sans-serif"
+ },
+ {
+  "family": "Zen Maru Gothic",
+  "slug": "zen-maru-gothic",
+  "category": "international-cjk",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Zen+Maru+Gothic",
+  "css": "https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap",
+  "css_stack": "'Zen Maru Gothic', sans-serif"
+ },
+ {
+  "family": "Amiri",
+  "slug": "amiri",
+  "category": "international-rtl-indic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Amiri",
+  "css": "https://fonts.googleapis.com/css2?family=Amiri&display=swap",
+  "css_stack": "'Amiri', sans-serif"
+ },
+ {
+  "family": "Cairo",
+  "slug": "cairo",
+  "category": "international-rtl-indic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Cairo",
+  "css": "https://fonts.googleapis.com/css2?family=Cairo&display=swap",
+  "css_stack": "'Cairo', sans-serif"
+ },
+ {
+  "family": "Noto Sans Arabic",
+  "slug": "noto-sans-arabic",
+  "category": "international-rtl-indic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Sans+Arabic",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&display=swap",
+  "css_stack": "'Noto Sans Arabic', sans-serif"
+ },
+ {
+  "family": "Noto Sans Devanagari",
+  "slug": "noto-sans-devanagari",
+  "category": "international-rtl-indic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Sans+Devanagari",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari&display=swap",
+  "css_stack": "'Noto Sans Devanagari', sans-serif"
+ },
+ {
+  "family": "Noto Sans Hebrew",
+  "slug": "noto-sans-hebrew",
+  "category": "international-rtl-indic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Sans+Hebrew",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew&display=swap",
+  "css_stack": "'Noto Sans Hebrew', sans-serif"
+ },
+ {
+  "family": "Tajawal",
+  "slug": "tajawal",
+  "category": "international-rtl-indic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Tajawal",
+  "css": "https://fonts.googleapis.com/css2?family=Tajawal&display=swap",
+  "css_stack": "'Tajawal', sans-serif"
+ },
+ {
+  "family": "Bubblegum Sans",
+  "slug": "bubblegum-sans",
+  "category": "kids-playful",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Bubblegum+Sans",
+  "css": "https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap",
+  "css_stack": "'Bubblegum Sans', sans-serif"
+ },
+ {
+  "family": "Chewy",
+  "slug": "chewy",
+  "category": "kids-playful",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Chewy",
+  "css": "https://fonts.googleapis.com/css2?family=Chewy&display=swap",
+  "css_stack": "'Chewy', sans-serif"
+ },
+ {
+  "family": "Gloria Hallelujah",
+  "slug": "gloria-hallelujah",
+  "category": "kids-playful",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Gloria+Hallelujah",
+  "css": "https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap",
+  "css_stack": "'Gloria Hallelujah', sans-serif"
+ },
+ {
+  "family": "Londrina Solid",
+  "slug": "londrina-solid",
+  "category": "kids-playful",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Londrina+Solid",
+  "css": "https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap",
+  "css_stack": "'Londrina Solid', sans-serif"
+ },
+ {
+  "family": "Schoolbell",
+  "slug": "schoolbell",
+  "category": "kids-playful",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Schoolbell",
+  "css": "https://fonts.googleapis.com/css2?family=Schoolbell&display=swap",
+  "css_stack": "'Schoolbell', sans-serif"
+ },
+ {
+  "family": "Sniglet",
+  "slug": "sniglet",
+  "category": "kids-playful",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Sniglet",
+  "css": "https://fonts.googleapis.com/css2?family=Sniglet&display=swap",
+  "css_stack": "'Sniglet', sans-serif"
+ },
+ {
+  "family": "Fira Code",
+  "slug": "fira-code",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Fira+Code",
+  "css": "https://fonts.googleapis.com/css2?family=Fira+Code&display=swap",
+  "css_stack": "'Fira Code', sans-serif"
+ },
+ {
+  "family": "IBM Plex Mono",
+  "slug": "ibm-plex-mono",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/IBM+Plex+Mono",
+  "css": "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap",
+  "css_stack": "'IBM Plex Mono', sans-serif"
+ },
+ {
+  "family": "Inconsolata",
+  "slug": "inconsolata",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Inconsolata",
+  "css": "https://fonts.googleapis.com/css2?family=Inconsolata&display=swap",
+  "css_stack": "'Inconsolata', sans-serif"
+ },
+ {
+  "family": "JetBrains Mono",
+  "slug": "jetbrains-mono",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/JetBrains+Mono",
+  "css": "https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap",
+  "css_stack": "'JetBrains Mono', sans-serif"
+ },
+ {
+  "family": "Roboto Mono",
+  "slug": "roboto-mono",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Roboto+Mono",
+  "css": "https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap",
+  "css_stack": "'Roboto Mono', sans-serif"
+ },
+ {
+  "family": "Source Code Pro",
+  "slug": "source-code-pro",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Source+Code+Pro",
+  "css": "https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap",
+  "css_stack": "'Source Code Pro', sans-serif"
+ },
+ {
+  "family": "Anonymous Pro",
+  "slug": "anonymous-pro",
+  "category": "mono-typewriter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Anonymous+Pro",
+  "css": "https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap",
+  "css_stack": "'Anonymous Pro', sans-serif"
+ },
+ {
+  "family": "Courier Prime",
+  "slug": "courier-prime",
+  "category": "mono-typewriter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Courier+Prime",
+  "css": "https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap",
+  "css_stack": "'Courier Prime', sans-serif"
+ },
+ {
+  "family": "Cutive Mono",
+  "slug": "cutive-mono",
+  "category": "mono-typewriter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Cutive+Mono",
+  "css": "https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap",
+  "css_stack": "'Cutive Mono', sans-serif"
+ },
+ {
+  "family": "Nova Mono",
+  "slug": "nova-mono",
+  "category": "mono-typewriter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Nova+Mono",
+  "css": "https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap",
+  "css_stack": "'Nova Mono', sans-serif"
+ },
+ {
+  "family": "Space Mono",
+  "slug": "space-mono",
+  "category": "mono-typewriter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Space+Mono",
+  "css": "https://fonts.googleapis.com/css2?family=Space+Mono&display=swap",
+  "css_stack": "'Space Mono', sans-serif"
+ },
+ {
+  "family": "Special Elite",
+  "slug": "special-elite",
+  "category": "mono-typewriter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Special+Elite",
+  "css": "https://fonts.googleapis.com/css2?family=Special+Elite&display=swap",
+  "css_stack": "'Special Elite', sans-serif"
+ },
+ {
+  "family": "Archivo Narrow",
+  "slug": "archivo-narrow",
+  "category": "sans-condensed",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Archivo+Narrow",
+  "css": "https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap",
+  "css_stack": "'Archivo Narrow', sans-serif"
+ },
+ {
+  "family": "Barlow Condensed",
+  "slug": "barlow-condensed",
+  "category": "sans-condensed",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Barlow+Condensed",
+  "css": "https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap",
+  "css_stack": "'Barlow Condensed', sans-serif"
+ },
+ {
+  "family": "Fjalla One",
+  "slug": "fjalla-one",
+  "category": "sans-condensed",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Fjalla+One",
+  "css": "https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap",
+  "css_stack": "'Fjalla One', sans-serif"
+ },
+ {
+  "family": "Oswald",
+  "slug": "oswald",
+  "category": "sans-condensed",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Oswald",
+  "css": "https://fonts.googleapis.com/css2?family=Oswald&display=swap",
+  "css_stack": "'Oswald', sans-serif"
+ },
+ {
+  "family": "Pathway Gothic One",
+  "slug": "pathway-gothic-one",
+  "category": "sans-condensed",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Pathway+Gothic+One",
+  "css": "https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap",
+  "css_stack": "'Pathway Gothic One', sans-serif"
+ },
+ {
+  "family": "Roboto Condensed",
+  "slug": "roboto-condensed",
+  "category": "sans-condensed",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Roboto+Condensed",
+  "css": "https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap",
+  "css_stack": "'Roboto Condensed', sans-serif"
+ },
+ {
+  "family": "Lexend",
+  "slug": "lexend",
+  "category": "sans-geometric",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Lexend",
+  "css": "https://fonts.googleapis.com/css2?family=Lexend&display=swap",
+  "css_stack": "'Lexend', sans-serif"
+ },
+ {
+  "family": "Montserrat",
+  "slug": "montserrat",
+  "category": "sans-geometric",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Montserrat",
+  "css": "https://fonts.googleapis.com/css2?family=Montserrat&display=swap",
+  "css_stack": "'Montserrat', sans-serif"
+ },
+ {
+  "family": "Outfit",
+  "slug": "outfit",
+  "category": "sans-geometric",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Outfit",
+  "css": "https://fonts.googleapis.com/css2?family=Outfit&display=swap",
+  "css_stack": "'Outfit', sans-serif"
+ },
+ {
+  "family": "Poppins",
+  "slug": "poppins",
+  "category": "sans-geometric",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Poppins",
+  "css": "https://fonts.googleapis.com/css2?family=Poppins&display=swap",
+  "css_stack": "'Poppins', sans-serif"
+ },
+ {
+  "family": "Quicksand",
+  "slug": "quicksand",
+  "category": "sans-geometric",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Quicksand",
+  "css": "https://fonts.googleapis.com/css2?family=Quicksand&display=swap",
+  "css_stack": "'Quicksand', sans-serif"
+ },
+ {
+  "family": "Urbanist",
+  "slug": "urbanist",
+  "category": "sans-geometric",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Urbanist",
+  "css": "https://fonts.googleapis.com/css2?family=Urbanist&display=swap",
+  "css_stack": "'Urbanist', sans-serif"
+ },
+ {
+  "family": "DM Sans",
+  "slug": "dm-sans",
+  "category": "sans-grotesque",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/DM+Sans",
+  "css": "https://fonts.googleapis.com/css2?family=DM+Sans&display=swap",
+  "css_stack": "'DM Sans', sans-serif"
+ },
+ {
+  "family": "Inter",
+  "slug": "inter",
+  "category": "sans-grotesque",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Inter",
+  "css": "https://fonts.googleapis.com/css2?family=Inter&display=swap",
+  "css_stack": "'Inter', sans-serif"
+ },
+ {
+  "family": "Manrope",
+  "slug": "manrope",
+  "category": "sans-grotesque",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Manrope",
+  "css": "https://fonts.googleapis.com/css2?family=Manrope&display=swap",
+  "css_stack": "'Manrope', sans-serif"
+ },
+ {
+  "family": "Public Sans",
+  "slug": "public-sans",
+  "category": "sans-grotesque",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Public+Sans",
+  "css": "https://fonts.googleapis.com/css2?family=Public+Sans&display=swap",
+  "css_stack": "'Public Sans', sans-serif"
+ },
+ {
+  "family": "Rubik",
+  "slug": "rubik",
+  "category": "sans-grotesque",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Rubik",
+  "css": "https://fonts.googleapis.com/css2?family=Rubik&display=swap",
+  "css_stack": "'Rubik', sans-serif"
+ },
+ {
+  "family": "Work Sans",
+  "slug": "work-sans",
+  "category": "sans-grotesque",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Work+Sans",
+  "css": "https://fonts.googleapis.com/css2?family=Work+Sans&display=swap",
+  "css_stack": "'Work Sans', sans-serif"
+ },
+ {
+  "family": "Cabin",
+  "slug": "cabin",
+  "category": "sans-humanist",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Cabin",
+  "css": "https://fonts.googleapis.com/css2?family=Cabin&display=swap",
+  "css_stack": "'Cabin', sans-serif"
+ },
+ {
+  "family": "Fira Sans",
+  "slug": "fira-sans",
+  "category": "sans-humanist",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Fira+Sans",
+  "css": "https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap",
+  "css_stack": "'Fira Sans', sans-serif"
+ },
+ {
+  "family": "Lato",
+  "slug": "lato",
+  "category": "sans-humanist",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Lato",
+  "css": "https://fonts.googleapis.com/css2?family=Lato&display=swap",
+  "css_stack": "'Lato', sans-serif"
+ },
+ {
+  "family": "Noto Sans",
+  "slug": "noto-sans",
+  "category": "sans-humanist",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Sans",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap",
+  "css_stack": "'Noto Sans', sans-serif"
+ },
+ {
+  "family": "Open Sans",
+  "slug": "open-sans",
+  "category": "sans-humanist",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Open+Sans",
+  "css": "https://fonts.googleapis.com/css2?family=Open+Sans&display=swap",
+  "css_stack": "'Open Sans', sans-serif"
+ },
+ {
+  "family": "Source Sans 3",
+  "slug": "source-sans-3",
+  "category": "sans-humanist",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Source+Sans+3",
+  "css": "https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap",
+  "css_stack": "'Source Sans 3', sans-serif"
+ },
+ {
+  "family": "Baloo 2",
+  "slug": "baloo-2",
+  "category": "sans-rounded",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Baloo+2",
+  "css": "https://fonts.googleapis.com/css2?family=Baloo+2&display=swap",
+  "css_stack": "'Baloo 2', sans-serif"
+ },
+ {
+  "family": "Comfortaa",
+  "slug": "comfortaa",
+  "category": "sans-rounded",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Comfortaa",
+  "css": "https://fonts.googleapis.com/css2?family=Comfortaa&display=swap",
+  "css_stack": "'Comfortaa', sans-serif"
+ },
+ {
+  "family": "Fredoka",
+  "slug": "fredoka",
+  "category": "sans-rounded",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Fredoka",
+  "css": "https://fonts.googleapis.com/css2?family=Fredoka&display=swap",
+  "css_stack": "'Fredoka', sans-serif"
+ },
+ {
+  "family": "M PLUS Rounded 1c",
+  "slug": "m-plus-rounded-1c",
+  "category": "sans-rounded",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/M+PLUS+Rounded+1c",
+  "css": "https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap",
+  "css_stack": "'M PLUS Rounded 1c', sans-serif"
+ },
+ {
+  "family": "Nunito",
+  "slug": "nunito",
+  "category": "sans-rounded",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Nunito",
+  "css": "https://fonts.googleapis.com/css2?family=Nunito&display=swap",
+  "css_stack": "'Nunito', sans-serif"
+ },
+ {
+  "family": "Varela Round",
+  "slug": "varela-round",
+  "category": "sans-rounded",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Varela+Round",
+  "css": "https://fonts.googleapis.com/css2?family=Varela+Round&display=swap",
+  "css_stack": "'Varela Round', sans-serif"
+ },
+ {
+  "family": "Kaushan Script",
+  "slug": "kaushan-script",
+  "category": "script-brush",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Kaushan+Script",
+  "css": "https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap",
+  "css_stack": "'Kaushan Script', sans-serif"
+ },
+ {
+  "family": "Marck Script",
+  "slug": "marck-script",
+  "category": "script-brush",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Marck+Script",
+  "css": "https://fonts.googleapis.com/css2?family=Marck+Script&display=swap",
+  "css_stack": "'Marck Script', sans-serif"
+ },
+ {
+  "family": "Pacifico",
+  "slug": "pacifico",
+  "category": "script-brush",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Pacifico",
+  "css": "https://fonts.googleapis.com/css2?family=Pacifico&display=swap",
+  "css_stack": "'Pacifico', sans-serif"
+ },
+ {
+  "family": "Permanent Marker",
+  "slug": "permanent-marker",
+  "category": "script-brush",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Permanent+Marker",
+  "css": "https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap",
+  "css_stack": "'Permanent Marker', sans-serif"
+ },
+ {
+  "family": "Satisfy",
+  "slug": "satisfy",
+  "category": "script-brush",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Satisfy",
+  "css": "https://fonts.googleapis.com/css2?family=Satisfy&display=swap",
+  "css_stack": "'Satisfy', sans-serif"
+ },
+ {
+  "family": "Yellowtail",
+  "slug": "yellowtail",
+  "category": "script-brush",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Yellowtail",
+  "css": "https://fonts.googleapis.com/css2?family=Yellowtail&display=swap",
+  "css_stack": "'Yellowtail', sans-serif"
+ },
+ {
+  "family": "Alex Brush",
+  "slug": "alex-brush",
+  "category": "script-calligraphy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Alex+Brush",
+  "css": "https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap",
+  "css_stack": "'Alex Brush', sans-serif"
+ },
+ {
+  "family": "Allura",
+  "slug": "allura",
+  "category": "script-calligraphy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Allura",
+  "css": "https://fonts.googleapis.com/css2?family=Allura&display=swap",
+  "css_stack": "'Allura', sans-serif"
+ },
+ {
+  "family": "Dancing Script",
+  "slug": "dancing-script",
+  "category": "script-calligraphy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Dancing+Script",
+  "css": "https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap",
+  "css_stack": "'Dancing Script', sans-serif"
+ },
+ {
+  "family": "Great Vibes",
+  "slug": "great-vibes",
+  "category": "script-calligraphy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Great+Vibes",
+  "css": "https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap",
+  "css_stack": "'Great Vibes', sans-serif"
+ },
+ {
+  "family": "Parisienne",
+  "slug": "parisienne",
+  "category": "script-calligraphy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Parisienne",
+  "css": "https://fonts.googleapis.com/css2?family=Parisienne&display=swap",
+  "css_stack": "'Parisienne', sans-serif"
+ },
+ {
+  "family": "Sacramento",
+  "slug": "sacramento",
+  "category": "script-calligraphy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Sacramento",
+  "css": "https://fonts.googleapis.com/css2?family=Sacramento&display=swap",
+  "css_stack": "'Sacramento', sans-serif"
+ },
+ {
+  "family": "Caveat",
+  "slug": "caveat",
+  "category": "script-handwriting",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Caveat",
+  "css": "https://fonts.googleapis.com/css2?family=Caveat&display=swap",
+  "css_stack": "'Caveat', sans-serif"
+ },
+ {
+  "family": "Gochi Hand",
+  "slug": "gochi-hand",
+  "category": "script-handwriting",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Gochi+Hand",
+  "css": "https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap",
+  "css_stack": "'Gochi Hand', sans-serif"
+ },
+ {
+  "family": "Indie Flower",
+  "slug": "indie-flower",
+  "category": "script-handwriting",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Indie+Flower",
+  "css": "https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap",
+  "css_stack": "'Indie Flower', sans-serif"
+ },
+ {
+  "family": "Kalam",
+  "slug": "kalam",
+  "category": "script-handwriting",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Kalam",
+  "css": "https://fonts.googleapis.com/css2?family=Kalam&display=swap",
+  "css_stack": "'Kalam', sans-serif"
+ },
+ {
+  "family": "Patrick Hand",
+  "slug": "patrick-hand",
+  "category": "script-handwriting",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Patrick+Hand",
+  "css": "https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap",
+  "css_stack": "'Patrick Hand', sans-serif"
+ },
+ {
+  "family": "Shadows Into Light",
+  "slug": "shadows-into-light",
+  "category": "script-handwriting",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Shadows+Into+Light",
+  "css": "https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap",
+  "css_stack": "'Shadows Into Light', sans-serif"
+ },
+ {
+  "family": "Abril Fatface",
+  "slug": "abril-fatface",
+  "category": "serif-didone",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Abril+Fatface",
+  "css": "https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap",
+  "css_stack": "'Abril Fatface', sans-serif"
+ },
+ {
+  "family": "Bodoni Moda",
+  "slug": "bodoni-moda",
+  "category": "serif-didone",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Bodoni+Moda",
+  "css": "https://fonts.googleapis.com/css2?family=Bodoni+Moda&display=swap",
+  "css_stack": "'Bodoni Moda', sans-serif"
+ },
+ {
+  "family": "Gloock",
+  "slug": "gloock",
+  "category": "serif-didone",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Gloock",
+  "css": "https://fonts.googleapis.com/css2?family=Gloock&display=swap",
+  "css_stack": "'Gloock', sans-serif"
+ },
+ {
+  "family": "Playfair Display",
+  "slug": "playfair-display",
+  "category": "serif-didone",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Playfair+Display",
+  "css": "https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap",
+  "css_stack": "'Playfair Display', sans-serif"
+ },
+ {
+  "family": "Prata",
+  "slug": "prata",
+  "category": "serif-didone",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Prata",
+  "css": "https://fonts.googleapis.com/css2?family=Prata&display=swap",
+  "css_stack": "'Prata', sans-serif"
+ },
+ {
+  "family": "Rufina",
+  "slug": "rufina",
+  "category": "serif-didone",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Rufina",
+  "css": "https://fonts.googleapis.com/css2?family=Rufina&display=swap",
+  "css_stack": "'Rufina', sans-serif"
+ },
+ {
+  "family": "Cormorant Garamond",
+  "slug": "cormorant-garamond",
+  "category": "serif-oldstyle",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Cormorant+Garamond",
+  "css": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap",
+  "css_stack": "'Cormorant Garamond', sans-serif"
+ },
+ {
+  "family": "Crimson Text",
+  "slug": "crimson-text",
+  "category": "serif-oldstyle",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Crimson+Text",
+  "css": "https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap",
+  "css_stack": "'Crimson Text', sans-serif"
+ },
+ {
+  "family": "EB Garamond",
+  "slug": "eb-garamond",
+  "category": "serif-oldstyle",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/EB+Garamond",
+  "css": "https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap",
+  "css_stack": "'EB Garamond', sans-serif"
+ },
+ {
+  "family": "Libre Baskerville",
+  "slug": "libre-baskerville",
+  "category": "serif-oldstyle",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Libre+Baskerville",
+  "css": "https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap",
+  "css_stack": "'Libre Baskerville', sans-serif"
+ },
+ {
+  "family": "Lora",
+  "slug": "lora",
+  "category": "serif-oldstyle",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Lora",
+  "css": "https://fonts.googleapis.com/css2?family=Lora&display=swap",
+  "css_stack": "'Lora', sans-serif"
+ },
+ {
+  "family": "Spectral",
+  "slug": "spectral",
+  "category": "serif-oldstyle",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Spectral",
+  "css": "https://fonts.googleapis.com/css2?family=Spectral&display=swap",
+  "css_stack": "'Spectral', sans-serif"
+ },
+ {
+  "family": "Gelasio",
+  "slug": "gelasio",
+  "category": "serif-transitional",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Gelasio",
+  "css": "https://fonts.googleapis.com/css2?family=Gelasio&display=swap",
+  "css_stack": "'Gelasio', sans-serif"
+ },
+ {
+  "family": "Libre Caslon Text",
+  "slug": "libre-caslon-text",
+  "category": "serif-transitional",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Libre+Caslon+Text",
+  "css": "https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&display=swap",
+  "css_stack": "'Libre Caslon Text', sans-serif"
+ },
+ {
+  "family": "Merriweather",
+  "slug": "merriweather",
+  "category": "serif-transitional",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Merriweather",
+  "css": "https://fonts.googleapis.com/css2?family=Merriweather&display=swap",
+  "css_stack": "'Merriweather', sans-serif"
+ },
+ {
+  "family": "Noto Serif",
+  "slug": "noto-serif",
+  "category": "serif-transitional",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Serif",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap",
+  "css_stack": "'Noto Serif', sans-serif"
+ },
+ {
+  "family": "PT Serif",
+  "slug": "pt-serif",
+  "category": "serif-transitional",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/PT+Serif",
+  "css": "https://fonts.googleapis.com/css2?family=PT+Serif&display=swap",
+  "css_stack": "'PT Serif', sans-serif"
+ },
+ {
+  "family": "Source Serif 4",
+  "slug": "source-serif-4",
+  "category": "serif-transitional",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Source+Serif+4",
+  "css": "https://fonts.googleapis.com/css2?family=Source+Serif+4&display=swap",
+  "css_stack": "'Source Serif 4', sans-serif"
+ },
+ {
+  "family": "Arvo",
+  "slug": "arvo",
+  "category": "slab-serif",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Arvo",
+  "css": "https://fonts.googleapis.com/css2?family=Arvo&display=swap",
+  "css_stack": "'Arvo', sans-serif"
+ },
+ {
+  "family": "Bitter",
+  "slug": "bitter",
+  "category": "slab-serif",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Bitter",
+  "css": "https://fonts.googleapis.com/css2?family=Bitter&display=swap",
+  "css_stack": "'Bitter', sans-serif"
+ },
+ {
+  "family": "Crete Round",
+  "slug": "crete-round",
+  "category": "slab-serif",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Crete+Round",
+  "css": "https://fonts.googleapis.com/css2?family=Crete+Round&display=swap",
+  "css_stack": "'Crete Round', sans-serif"
+ },
+ {
+  "family": "Roboto Slab",
+  "slug": "roboto-slab",
+  "category": "slab-serif",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Roboto+Slab",
+  "css": "https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap",
+  "css_stack": "'Roboto Slab', sans-serif"
+ },
+ {
+  "family": "Rokkitt",
+  "slug": "rokkitt",
+  "category": "slab-serif",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Rokkitt",
+  "css": "https://fonts.googleapis.com/css2?family=Rokkitt&display=swap",
+  "css_stack": "'Rokkitt', sans-serif"
+ },
+ {
+  "family": "Zilla Slab",
+  "slug": "zilla-slab",
+  "category": "slab-serif",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Zilla+Slab",
+  "css": "https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap",
+  "css_stack": "'Zilla Slab', sans-serif"
+ },
+ {
+  "family": "Anybody",
+  "slug": "anybody",
+  "category": "variable-fonts",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Anybody",
+  "css": "https://fonts.googleapis.com/css2?family=Anybody&display=swap",
+  "css_stack": "'Anybody', sans-serif"
+ },
+ {
+  "family": "Bricolage Grotesque",
+  "slug": "bricolage-grotesque",
+  "category": "variable-fonts",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Bricolage+Grotesque",
+  "css": "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque&display=swap",
+  "css_stack": "'Bricolage Grotesque', sans-serif"
+ },
+ {
+  "family": "Figtree",
+  "slug": "figtree",
+  "category": "variable-fonts",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Figtree",
+  "css": "https://fonts.googleapis.com/css2?family=Figtree&display=swap",
+  "css_stack": "'Figtree', sans-serif"
+ },
+ {
+  "family": "Fraunces",
+  "slug": "fraunces",
+  "category": "variable-fonts",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Fraunces",
+  "css": "https://fonts.googleapis.com/css2?family=Fraunces&display=swap",
+  "css_stack": "'Fraunces', sans-serif"
+ },
+ {
+  "family": "Recursive",
+  "slug": "recursive",
+  "category": "variable-fonts",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Recursive",
+  "css": "https://fonts.googleapis.com/css2?family=Recursive&display=swap",
+  "css_stack": "'Recursive', sans-serif"
+ },
+ {
+  "family": "Roboto Flex",
+  "slug": "roboto-flex",
+  "category": "variable-fonts",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Roboto+Flex",
+  "css": "https://fonts.googleapis.com/css2?family=Roboto+Flex&display=swap",
+  "css_stack": "'Roboto Flex', sans-serif"
+ }
+]
