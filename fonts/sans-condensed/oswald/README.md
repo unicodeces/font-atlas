@@ -1,0 +1,10 @@
+# Oswald
+
+- Categoria: `sans-condensed`
+- Fonte: Google Fonts
+- Página: https://fonts.google.com/specimen/Oswald
+
+```css
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body { font-family: 'Oswald', sans-serif; }
+```

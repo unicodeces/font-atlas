@@ -1,0 +1,10 @@
+{
+  "family": "Space Mono",
+  "slug": "space-mono",
+  "category": "mono-typewriter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Space+Mono",
+  "css": "https://fonts.googleapis.com/css2?family=Space+Mono&display=swap",
+  "css_stack": "'Space Mono', sans-serif"
+}

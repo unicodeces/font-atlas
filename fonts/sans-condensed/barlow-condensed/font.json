@@ -1,0 +1,10 @@
+{
+  "family": "Barlow Condensed",
+  "slug": "barlow-condensed",
+  "category": "sans-condensed",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Barlow+Condensed",
+  "css": "https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap",
+  "css_stack": "'Barlow Condensed', sans-serif"
+}

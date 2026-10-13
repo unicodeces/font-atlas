@@ -1,0 +1,10 @@
+{
+  "family": "Nova Mono",
+  "slug": "nova-mono",
+  "category": "mono-typewriter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Nova+Mono",
+  "css": "https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap",
+  "css_stack": "'Nova Mono', sans-serif"
+}

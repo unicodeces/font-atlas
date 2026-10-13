@@ -1,0 +1,10 @@
+{
+  "family": "Archivo Narrow",
+  "slug": "archivo-narrow",
+  "category": "sans-condensed",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Archivo+Narrow",
+  "css": "https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap",
+  "css_stack": "'Archivo Narrow', sans-serif"
+}

@@ -1,0 +1,10 @@
+# Open Sans
+
+- Categoria: `sans-humanist`
+- Fonte: Google Fonts
+- Página: https://fonts.google.com/specimen/Open+Sans
+
+```css
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body { font-family: 'Open Sans', sans-serif; }
+```

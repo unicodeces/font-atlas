@@ -1,0 +1,10 @@
+{
+  "family": "Public Sans",
+  "slug": "public-sans",
+  "category": "sans-grotesque",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Public+Sans",
+  "css": "https://fonts.googleapis.com/css2?family=Public+Sans&display=swap",
+  "css_stack": "'Public Sans', sans-serif"
+}

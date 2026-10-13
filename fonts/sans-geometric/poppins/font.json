@@ -1,0 +1,10 @@
+{
+  "family": "Poppins",
+  "slug": "poppins",
+  "category": "sans-geometric",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Poppins",
+  "css": "https://fonts.googleapis.com/css2?family=Poppins&display=swap",
+  "css_stack": "'Poppins', sans-serif"
+}

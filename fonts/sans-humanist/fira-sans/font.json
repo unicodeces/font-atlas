@@ -1,0 +1,10 @@
+{
+  "family": "Fira Sans",
+  "slug": "fira-sans",
+  "category": "sans-humanist",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Fira+Sans",
+  "css": "https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap",
+  "css_stack": "'Fira Sans', sans-serif"
+}
