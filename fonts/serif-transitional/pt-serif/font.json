@@ -1,0 +1,10 @@
+{
+  "family": "PT Serif",
+  "slug": "pt-serif",
+  "category": "serif-transitional",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/PT+Serif",
+  "css": "https://fonts.googleapis.com/css2?family=PT+Serif&display=swap",
+  "css_stack": "'PT Serif', sans-serif"
+}

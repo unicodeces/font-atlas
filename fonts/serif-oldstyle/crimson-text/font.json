@@ -1,0 +1,10 @@
+{
+  "family": "Crimson Text",
+  "slug": "crimson-text",
+  "category": "serif-oldstyle",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Crimson+Text",
+  "css": "https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap",
+  "css_stack": "'Crimson Text', sans-serif"
+}

@@ -1,0 +1,10 @@
+{
+  "family": "EB Garamond",
+  "slug": "eb-garamond",
+  "category": "serif-oldstyle",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/EB+Garamond",
+  "css": "https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap",
+  "css_stack": "'EB Garamond', sans-serif"
+}

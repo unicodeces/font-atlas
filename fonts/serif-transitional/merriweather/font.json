@@ -1,0 +1,10 @@
+{
+  "family": "Merriweather",
+  "slug": "merriweather",
+  "category": "serif-transitional",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Merriweather",
+  "css": "https://fonts.googleapis.com/css2?family=Merriweather&display=swap",
+  "css_stack": "'Merriweather', sans-serif"
+}

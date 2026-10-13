@@ -1,0 +1,10 @@
+{
+  "family": "Cormorant Garamond",
+  "slug": "cormorant-garamond",
+  "category": "serif-oldstyle",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Cormorant+Garamond",
+  "css": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap",
+  "css_stack": "'Cormorant Garamond', sans-serif"
+}

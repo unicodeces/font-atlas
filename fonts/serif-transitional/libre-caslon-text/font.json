@@ -1,0 +1,10 @@
+{
+  "family": "Libre Caslon Text",
+  "slug": "libre-caslon-text",
+  "category": "serif-transitional",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Libre+Caslon+Text",
+  "css": "https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&display=swap",
+  "css_stack": "'Libre Caslon Text', sans-serif"
+}

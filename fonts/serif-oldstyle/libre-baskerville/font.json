@@ -1,0 +1,10 @@
+{
+  "family": "Libre Baskerville",
+  "slug": "libre-baskerville",
+  "category": "serif-oldstyle",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Libre+Baskerville",
+  "css": "https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap",
+  "css_stack": "'Libre Baskerville', sans-serif"
+}

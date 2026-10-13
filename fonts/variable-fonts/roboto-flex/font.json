@@ -1,0 +1,10 @@
+{
+  "family": "Roboto Flex",
+  "slug": "roboto-flex",
+  "category": "variable-fonts",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Roboto+Flex",
+  "css": "https://fonts.googleapis.com/css2?family=Roboto+Flex&display=swap",
+  "css_stack": "'Roboto Flex', sans-serif"
+}

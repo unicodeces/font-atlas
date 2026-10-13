@@ -1,0 +1,10 @@
+{
+  "family": "Figtree",
+  "slug": "figtree",
+  "category": "variable-fonts",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Figtree",
+  "css": "https://fonts.googleapis.com/css2?family=Figtree&display=swap",
+  "css_stack": "'Figtree', sans-serif"
+}
