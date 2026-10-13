@@ -1,0 +1,10 @@
+{
+  "family": "JetBrains Mono",
+  "slug": "jetbrains-mono",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/JetBrains+Mono",
+  "css": "https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap",
+  "css_stack": "'JetBrains Mono', sans-serif"
+}

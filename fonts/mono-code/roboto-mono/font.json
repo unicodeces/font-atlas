@@ -1,0 +1,10 @@
+{
+  "family": "Roboto Mono",
+  "slug": "roboto-mono",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Roboto+Mono",
+  "css": "https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap",
+  "css_stack": "'Roboto Mono', sans-serif"
+}

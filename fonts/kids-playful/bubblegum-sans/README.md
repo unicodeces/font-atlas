@@ -1,0 +1,10 @@
+# Bubblegum Sans
+
+- Categoria: `kids-playful`
+- Fonte: Google Fonts
+- Página: https://fonts.google.com/specimen/Bubblegum+Sans
+
+```css
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
+body { font-family: 'Bubblegum Sans', sans-serif; }
+```

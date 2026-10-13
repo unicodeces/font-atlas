@@ -1,0 +1,10 @@
+{
+  "family": "Inconsolata",
+  "slug": "inconsolata",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Inconsolata",
+  "css": "https://fonts.googleapis.com/css2?family=Inconsolata&display=swap",
+  "css_stack": "'Inconsolata', sans-serif"
+}

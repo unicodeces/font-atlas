@@ -1,0 +1,10 @@
+{
+  "family": "Fira Code",
+  "slug": "fira-code",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Fira+Code",
+  "css": "https://fonts.googleapis.com/css2?family=Fira+Code&display=swap",
+  "css_stack": "'Fira Code', sans-serif"
+}

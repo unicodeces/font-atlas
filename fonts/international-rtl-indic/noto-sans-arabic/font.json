@@ -1,0 +1,10 @@
+{
+  "family": "Noto Sans Arabic",
+  "slug": "noto-sans-arabic",
+  "category": "international-rtl-indic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Sans+Arabic",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&display=swap",
+  "css_stack": "'Noto Sans Arabic', sans-serif"
+}

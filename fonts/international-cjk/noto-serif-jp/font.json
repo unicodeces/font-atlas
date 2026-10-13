@@ -1,0 +1,10 @@
+{
+  "family": "Noto Serif JP",
+  "slug": "noto-serif-jp",
+  "category": "international-cjk",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Serif+JP",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap",
+  "css_stack": "'Noto Serif JP', sans-serif"
+}

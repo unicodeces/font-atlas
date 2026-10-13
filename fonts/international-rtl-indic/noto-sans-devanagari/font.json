@@ -1,0 +1,10 @@
+{
+  "family": "Noto Sans Devanagari",
+  "slug": "noto-sans-devanagari",
+  "category": "international-rtl-indic",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Sans+Devanagari",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari&display=swap",
+  "css_stack": "'Noto Sans Devanagari', sans-serif"
+}

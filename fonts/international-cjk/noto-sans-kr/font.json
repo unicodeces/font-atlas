@@ -1,0 +1,10 @@
+{
+  "family": "Noto Sans KR",
+  "slug": "noto-sans-kr",
+  "category": "international-cjk",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Noto+Sans+KR",
+  "css": "https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap",
+  "css_stack": "'Noto Sans KR', sans-serif"
+}

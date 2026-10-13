@@ -1,0 +1,10 @@
+{
+  "family": "Source Code Pro",
+  "slug": "source-code-pro",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Source+Code+Pro",
+  "css": "https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap",
+  "css_stack": "'Source Code Pro', sans-serif"
+}

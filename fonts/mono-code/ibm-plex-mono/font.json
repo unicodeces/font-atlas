@@ -1,0 +1,10 @@
+{
+  "family": "IBM Plex Mono",
+  "slug": "ibm-plex-mono",
+  "category": "mono-code",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/IBM+Plex+Mono",
+  "css": "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap",
+  "css_stack": "'IBM Plex Mono', sans-serif"
+}
