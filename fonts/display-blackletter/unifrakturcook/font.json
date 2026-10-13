@@ -1,0 +1,10 @@
+{
+  "family": "UnifrakturCook",
+  "slug": "unifrakturcook",
+  "category": "display-blackletter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/UnifrakturCook",
+  "css": "https://fonts.googleapis.com/css2?family=UnifrakturCook&display=swap",
+  "css_stack": "'UnifrakturCook', sans-serif"
+}

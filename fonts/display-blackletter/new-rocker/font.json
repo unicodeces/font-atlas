@@ -1,0 +1,10 @@
+{
+  "family": "New Rocker",
+  "slug": "new-rocker",
+  "category": "display-blackletter",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/New+Rocker",
+  "css": "https://fonts.googleapis.com/css2?family=New+Rocker&display=swap",
+  "css_stack": "'New Rocker', sans-serif"
+}
