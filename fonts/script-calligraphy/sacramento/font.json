@@ -1,0 +1,10 @@
+{
+  "family": "Sacramento",
+  "slug": "sacramento",
+  "category": "script-calligraphy",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Sacramento",
+  "css": "https://fonts.googleapis.com/css2?family=Sacramento&display=swap",
+  "css_stack": "'Sacramento', sans-serif"
+}

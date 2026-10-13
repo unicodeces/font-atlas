@@ -1,0 +1,10 @@
+{
+  "family": "Pacifico",
+  "slug": "pacifico",
+  "category": "script-brush",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Pacifico",
+  "css": "https://fonts.googleapis.com/css2?family=Pacifico&display=swap",
+  "css_stack": "'Pacifico', sans-serif"
+}

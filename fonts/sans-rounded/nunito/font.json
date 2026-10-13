@@ -1,0 +1,10 @@
+{
+  "family": "Nunito",
+  "slug": "nunito",
+  "category": "sans-rounded",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Nunito",
+  "css": "https://fonts.googleapis.com/css2?family=Nunito&display=swap",
+  "css_stack": "'Nunito', sans-serif"
+}

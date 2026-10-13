@@ -1,0 +1,10 @@
+{
+  "family": "Playfair Display",
+  "slug": "playfair-display",
+  "category": "serif-didone",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Playfair+Display",
+  "css": "https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap",
+  "css_stack": "'Playfair Display', sans-serif"
+}

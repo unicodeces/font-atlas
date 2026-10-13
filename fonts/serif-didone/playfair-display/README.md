@@ -1,0 +1,10 @@
+# Playfair Display
+
+- Categoria: `serif-didone`
+- Fonte: Google Fonts
+- Página: https://fonts.google.com/specimen/Playfair+Display
+
+```css
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+body { font-family: 'Playfair Display', sans-serif; }
+```

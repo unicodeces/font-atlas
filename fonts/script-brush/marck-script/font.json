@@ -1,0 +1,10 @@
+{
+  "family": "Marck Script",
+  "slug": "marck-script",
+  "category": "script-brush",
+  "source": "Google Fonts",
+  "license": "OFL / Apache 2.0 (ver página oficial)",
+  "page": "https://fonts.google.com/specimen/Marck+Script",
+  "css": "https://fonts.googleapis.com/css2?family=Marck+Script&display=swap",
+  "css_stack": "'Marck Script', sans-serif"
+}
